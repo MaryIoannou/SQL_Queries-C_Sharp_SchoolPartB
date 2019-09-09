@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\SchoolPartb\SchoolPartb\bin\Debug\SchoolPartb.exe.config
+C:\Users\Admin\Desktop\SchoolPartb\SchoolPartb\bin\Debug\SchoolPartb.exe
+C:\Users\Admin\Desktop\SchoolPartb\SchoolPartb\bin\Debug\SchoolPartb.pdb
+C:\Users\Admin\Desktop\SchoolPartb\SchoolPartb\obj\Debug\SchoolPartb.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SchoolPartb\SchoolPartb\obj\Debug\SchoolPartb.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SchoolPartb\SchoolPartb\obj\Debug\SchoolPartb.exe
+C:\Users\Admin\Desktop\SchoolPartb\SchoolPartb\obj\Debug\SchoolPartb.pdb
